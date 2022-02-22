@@ -1,5 +1,9 @@
 # Medtronic Proposal Outline
 
+# Prequel - JAMA Cardiology Paper https://click.endnote.com/viewer?doi=10.1001%2Fjamacardio.2021.3702&token=WzI1OTg4MSwiMTAuMTAwMS9qYW1hY2FyZGlvLjIwMjEuMzcwMiJd.FzRXlWpt6q1BShzTdk2UrefCnmE
+Review the figure in paper as a model - it presents odds ratio of stroke depending on which window of days patient had AF
+An analogue for this paper would be a major atrial event (new onset AF) or ventricular event (VT/VF/death?) as the outcome (instead of stroke) and psych billing exposure (new diagnosis, new drug, or hospitalization) on x axis, divided by days, weeks, or months.
+
 ## Introduction
 
 ### Relationship between arrhythmia burden and neurocardiac disturbances  
